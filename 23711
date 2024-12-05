@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+    <center> <img src="img/y.png"height="190px" width="300px">
+ 
+    <center>
+        <section id="contact">
+          <fieldest>
+            <h2>         <mark>  نموزج خاص للتسجل في المعهد </mark> </h2>
+            <form method="get" action="">
+            </fieldest>
+            <legend>        <h4> المعلومات الشخصية : </h4>    </legend>
+            <label for="nameTXT">  اكتب الاسم </label>
+            <fieldest>
+            <input type="text" name="nameTXT" id="nameTXT"
+            maxlength="50"/>
+            </fieldest>
+            <form method="post" action="file.php"/>
+               <h2> اي من الكورسات تود ان تدرسها      </h2>
+            
+            <select name="path">
+            <option selected="selected"> اختار من هنا</option>
+              <h1> <option>   كورس اساسيات الحاسب الالي   </option></h1>
+            <option>  كورس التسويق الالكتروني     </option>
+             <option>  كورس صناعة المحتوي الرقمي   </option>
+            <option>    كورس تصميم الاعلانات الشامل </option>
+            <option>   كورس امن المعلومات  </option>
+            <option>    كورس التوعية في الامن السيبراني  </option>
+            
+            
+             
+                        
+                 </select>
+            <form method="post" action="file.php"/>
+            <h2>    اكتب رسالتك  </h2>
+            <form method="post" action="file.php" alt="اكتب هنا"/>
+            <textarea cols="30"  rows="10"  name="bio">           
+                     
+             </textarea>
+            </form>
+               <h2>  كيف علمت بموقعنا      </h2>
+            
+            <select name="path">
+            <option selected="selected"> اختار من هنا</option>
+              <h1> <option>    علمت عن طريق جريدة    </option></h1>
+            <option>  علمت عن طريق صديق    </option>
+             <option>  علمت عن طريق  محرك بحث غوغل  </option>
+            <option>     علمت عن طريق الفايسبوك  </option>
+            <option>    علمت عن طريق اليوتيوب </option>
+            
+            <option>     علمت عن طريق  المبرمج محمود عصام  </option>
+            
+            </select>
+            <form action="https://formsubmit.co/1677mahmoud@gmail.com" method="post">
+            <input type="hidden" name="_subject" value="New Email!">
+            <input type="section"name="الجامعة" placeholder="ادخل اسم الجامعة او الكلية">
+            <br>
+            
+            <input type="section"name="section" placeholder="ادخل الفصل الدراسي والسمستر">
+            
+            <button type="submit">  ارسال</button>
+            
+            
+            </FIELDEST>
+    
+
+</head>
+<body>
+    
+</body>
+</html>

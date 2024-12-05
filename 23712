@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+       
+    
+
+
+</head>
+<body class="id">
+  <br> 
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+   <center>     <h2> الكورسات التي ندرسها للطلاب</h2></center>
+   <div class="cou">
+
+    <center><p>كورس اساسيات الحاسب الالي </p></center>
+   <center><p>كورس مهالاات الطباعة</p></center>
+   <center><p>كورس التسويق الالكتروني</p></center>
+   <center><p>كورس التصميم</p></center>
+   <center><p>كورس امن المعلومات</p></center>
+   <center><p>كورس التوعية في الامن السيبراني</p></center>
+   </div>
+   
+  
+
+</body>
+</html>
